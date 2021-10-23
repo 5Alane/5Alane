@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @5Alane
+- 👀 I’m interested in App and website developing
+- 🌱 I’m currently learning react and golang
+- 💞️ I’m looking to collaborate on opensource projects
